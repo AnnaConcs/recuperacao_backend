@@ -7,3 +7,4 @@ console.log("=== PRODUÇÃO DO TURNO ===");
 console.log(`Caixas por hora: ${CaixasPorHora} Caixas`);
 console.log(`Horas trabalhadas: ${horasTrabalhadas} horas`);
 console.log(`total produzido: ${producaoTotal} caixas`);
+
